@@ -1,0 +1,18 @@
+Topic Protocol and Codebook
+
+Overview:
+	(1) Identify the topic of the dialog
+
+Procedure:
+    Understand the definition of each topic in advance.
+
+    Start with the first utterance of the dialog, analyse the discussion goal of the dialog and from there identify the topic of the dialog.
+
+    If the topic of the dialog is identified, try to extract the corresponding topic keywords:
+	    <Topic> <keywords>
+    
+    The keywords can be phrases including words or syntax. These keywords can be used to determine the dialog topic.
+
+	If a dialog contains multiple topics, please choose the one that is discussed most.
+
+	The list of topics is further adapted through a discussion of the labelling results.

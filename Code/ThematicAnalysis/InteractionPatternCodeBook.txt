@@ -1,0 +1,11 @@
+Interaction Protocol and Codebook
+
+Overview:
+	(1) Identify the interaction pattern of the dialog
+
+Procedure:
+    Understand the definition of utterance intents and interaction patterns in advance.
+
+    Analyse the intents of the parties to the dialog utterance by utterance, identifying patterns of interaction based on changes in intents.
+
+	The list of interaction pattern is further adapted through a discussion of the labelling results.
